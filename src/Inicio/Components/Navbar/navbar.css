@@ -1,0 +1,19 @@
+.bg-navbar {
+  background-color: #2e3192;
+}
+
+.text-cor {
+  color: white;
+  font: 17px montserrat semibold;
+}
+.padding {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.top-header {
+  background-color: red;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font: 14px montserrat semibold;
+}
