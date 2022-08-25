@@ -1,0 +1,18 @@
+.linha-futsal {
+  color: #2e3192;
+  width: 100px;
+  opacity: 100;
+}
+.img-futsal {
+  border-width: medium;
+  border-style: solid;
+  border-color: #2e3192;
+  border-radius: 5px;
+}
+
+.palagrafo-futsal {
+  font: 14pt montserrat regular;
+  padding-right: 80px;
+  color: rgb(109, 109, 109);
+  line-height: 30px;
+}

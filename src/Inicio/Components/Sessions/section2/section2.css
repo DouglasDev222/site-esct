@@ -1,0 +1,27 @@
+.titulo {
+  font: 35pt montserrat semibold;
+  margin-top: 80px;
+  color: white;
+}
+.palagrafo {
+  font: 14pt montserrat medium;
+  padding-right: 150px;
+  color: white;
+  line-height: 35px;
+}
+.linha {
+  width: 100px;
+  color: rgb(255, 255, 255);
+}
+.bg-geral {
+  background-color: #2e3192;
+}
+.button:hover {
+  background-color: #464ada;
+  color: white;
+}
+.button {
+  background-color: #464ada;
+  color: white;
+  margin-bottom: 100px;
+}
